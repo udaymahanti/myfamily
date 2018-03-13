@@ -14,3 +14,4 @@ Git commands
    git push
 7.To change branches in local if  repository contains multiple  branches.
    git checokut <branch>
+8.Git checkout done successfully
