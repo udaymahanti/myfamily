@@ -16,3 +16,6 @@ Git commands
    git checokut <branch>
 8.Git checkout done successfully
 9.git agin uday checkin
+10.git update_uday
+
+
